@@ -56,10 +56,10 @@ Final dataset includes:
 
 📊 Dashboard (Power BI)
 
-*Overview Page*
+***Overview Page***
 <img width="1457" height="818" alt="Overview" src="https://github.com/user-attachments/assets/658fdbe3-7c77-4a61-99e4-c019c0667200" />
 
-*Deep RFM Analysis*
+***Deep RFM Analysis***
 <img width="1451" height="817" alt="Deep dive" src="https://github.com/user-attachments/assets/5409a154-032d-44c3-9d2f-e26c1d3825c3" />
 
 📈 Key Insights
